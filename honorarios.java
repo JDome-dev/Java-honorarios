@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class copiahonorarios {
+public class honorarios {
 
     public static void main(String[] args) {
 
